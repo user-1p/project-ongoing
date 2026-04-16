@@ -16,16 +16,15 @@
         </div>
     </body>
    
-</html>
-<!DOCTYPE  html>
-<html>
+
+
 <body>
     <div class="page-container">
         <h2>Hello mai nandar</h2>
         <a href="  https://youtu.be/FJlEkNVcVXc?si=DnUknb5D2lmg0djc">
             <button>dont click</button></a>
 
-        <img src="image/picturre for website.jpg" alt="where">
+        <img src="image/picture for website.jpg" alt="where">
 
         <div class="form-group" style="border-left-width: 45px;">
             <label style="display: inline-block; font-weight: bold;">email</label>
